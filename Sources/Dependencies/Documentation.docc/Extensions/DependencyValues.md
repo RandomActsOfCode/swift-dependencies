@@ -19,6 +19,7 @@
 ### Dependency values
 
 - ``calendar``
+- ``canOpenURL``
 - ``context``
 - ``continuousClock``
 - ``date``
